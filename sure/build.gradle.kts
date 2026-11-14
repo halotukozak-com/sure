@@ -56,11 +56,11 @@ mavenPublishing {
     pom {
         name.set("sure")
         description.set("Type-safe DSL for value validation in Kotlin Multiplatform")
-        url.set("https://github.com/halotukozak/sure")
+        url.set("https://github.com/halotukozak-com/sure")
         licenses {
             license {
-                name.set("MIT")
-                url.set("https://opensource.org/licenses/MIT")
+                name.set("Apache-2.0")
+                url.set("https://www.apache.org/licenses/LICENSE-2.0.txt")
             }
         }
         developers {
@@ -70,9 +70,9 @@ mavenPublishing {
             }
         }
         scm {
-            url.set("https://github.com/halotukozak/sure")
-            connection.set("scm:git:https://github.com/halotukozak/sure.git")
-            developerConnection.set("scm:git:ssh://git@github.com/halotukozak/sure.git")
+            url.set("https://github.com/halotukozak-com/sure")
+            connection.set("scm:git:https://github.com/halotukozak-com/sure.git")
+            developerConnection.set("scm:git:ssh://git@github.com/halotukozak-com/sure.git")
         }
     }
 }
