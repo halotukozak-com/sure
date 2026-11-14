@@ -40,3 +40,7 @@ dependencies {
   ksp("io.github.halotukozak:sure-ksp:0.1.0")
 }
 ```
+
+## License
+
+Apache License 2.0. See [LICENSE](LICENSE) and [NOTICE](NOTICE).
